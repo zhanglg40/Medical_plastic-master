@@ -1,8 +1,8 @@
 <!--pages/share/share.wxml-->
 <view class='main share'>
-  <view class='share_title'>美丽暖冬，艺星暖冬新人礼包五大项目免费体验！</view>
+  <view class='share_title'>美丽暖冬，新人礼包五大项目免费体验！</view>
   <view class='share_content'>
-    <textarea placeholder='我是1888888888，艺星暖冬新人礼包免费领取，我在合肥艺星小程序等你哦~'></textarea>
+    <textarea placeholder='我是1888888888，新人礼包免费领取，我在坤如玛丽小程序等你哦~'></textarea>
     <view class='logo'>
     </view>
   </view>

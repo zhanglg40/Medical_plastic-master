@@ -4,9 +4,9 @@ function HttpRequest(apiUrl,method='GET',data={},callBack){
     title: "加载中",
     mask : true
   })
-  data.sign = sign()
+  // data.sign = sign()
   wx.request({
-    url: "https://hfyx.yzw0525.com/api/" + apiUrl,
+    url: "https://usr.nianman18.com/api/" + apiUrl,
     data: data,
     method: method,
     header: {

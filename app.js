@@ -49,7 +49,7 @@ App({
     })
   },
   globalData:{
-    urlpath: "http://xxx.xxx.com",
+    urlpath: "http://usr.nianman18.com",
     VERIFICATION:"xxxxxxxxxxxxxxxx",
     limit:5,
     UserInfo:{},
